@@ -8,3 +8,7 @@
 kenochieng/kenochieng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+I just joined the Odin project! 
+Learning Git and Github
+Despite my knowlege so far. I start from basic HTML all the way to using Frameworks
+May The Force Be with ME!!
